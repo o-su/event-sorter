@@ -1,6 +1,6 @@
 {
   "name": "event-sorter",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Simple event sorter that ensures the correct order of events.",
   "main": "dist/index.js",
   "scripts": {
